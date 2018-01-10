@@ -1,0 +1,19 @@
+import java.util.Scsnner;
+public clas 
+{
+public static void main(String[]args)
+{
+Scanner cd=new Scanner();
+System.out.println("enter the number");
+int num =cd.nextInt();
+if(num/2==0)
+{
+System.out.println("the num is even");
+else
+{
+System.out.println("the given num is odd");
+System.out.println(num);
+}
+}
+}
+}
